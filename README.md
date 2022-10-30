@@ -3,8 +3,7 @@
 
 Coronavirus disease 2019 (COVID-19) listing confirmed cases, reported deaths and reported recoveries. Coronavirus disease (COVID-19) is caused by the Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) and has had a worldwide effect. On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to Coronavirus illness in over 110 countries and territories around the world at the time.
 
-![App Screenshot](https://www.biospectrumasia.com/uploads/articles/200309_d_hn545_003-15738.JPG)
-![Logo](https://www.biospectrumasia.com/uploads/articles/200309_d_hn545_003-15738.JPG)
+![App Screenshot](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/CovidImage.jpg?raw=true)
 
 
 For full report of this project: [COVID-19](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/covid-19_analysis.ipynb)
