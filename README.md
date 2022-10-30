@@ -15,14 +15,16 @@ For full report of this project: [COVID-19](https://github.com/L-VinayKumar/COVI
     4. Installation
     5. Data Visualization
     6. Conclusion
-
+ 
 ### Objective:
- Visualization of people affected by COVID-19 worldwide in jupyter notebook
+ Visualization of people affected by COVID-19 worldwide
 
  * Confirmed tested cases of Coronavirus infection
+ * TreeMap Representation of Data
+ * Pie Chart Representation of stats of worst affected countries
  * Representation of Population to Tests Done Ratio
  * The number of people who have reportedly recovered from it
- * Top 20 countries that are Severely affected by corona 
+ * Top 20 countries that are Severely affected/TotalConfirmed/TotalDeaths/TotalActive/TotalRecoveries by corona 
 
 ## Installation
 
