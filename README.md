@@ -33,7 +33,6 @@ To install the libraries used in this project. Follow the below steps
 ```bash
  pip install pandas
  pip install numpy
- pip install seaborn
  pip install matplotlib
  pip install plotly
 ```
