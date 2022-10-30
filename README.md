@@ -38,8 +38,11 @@ To install the libraries used in this project. Follow the below steps
 
 ## Data Visualization 
 
-TreeMap of Total Covid Cases (https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/treemap.PNG?raw=true)
+TreeMap of Total Covid Cases 
+![Logo](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/treemap.PNG?raw=true)
              
-Most-Effected country by CORONA(https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/most-affected.PNG?raw=true)
+Most-Effected country by CORONA
+![Logo](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/most-affected.PNG?raw=true)
      
-Top 20 Recovered Cases (https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/Recovered.PNG?raw=true) 
+Top 20 Recovered Cases 
+![Logo](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/Recovered.PNG?raw=true) 
