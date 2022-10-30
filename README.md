@@ -5,8 +5,6 @@ Coronavirus disease 2019 (COVID-19) listing confirmed cases, reported deaths and
 
 ![App Screenshot](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/CovidImage.jpg?raw=true)
 
-
-For full report of this project: [COVID-19](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/covid-19_analysis.ipynb)
 ## Summary Process
 
     1. Objective
@@ -38,6 +36,8 @@ To install the libraries used in this project. Follow the below steps
 ```
 
 ## Data Visualization 
+
+For full report of this project: [COVID-19](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/covid-19_analysis.ipynb)
 
 TreeMap of Total Covid Cases 
 ![Logo](https://github.com/L-VinayKumar/COVID-19-Data-Visualization/blob/main/Covid-19%20data%20visualization/treemap.PNG?raw=true)
