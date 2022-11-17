@@ -21,7 +21,7 @@ Coronavirus disease 2019 (COVID-19) listing confirmed cases, reported deaths and
  * TreeMap Representation of Data
  * Pie Chart Representation of stats of worst affected countries
  * Representation of Population to Tests Done Ratio
- * The number of people who have reportedly recovered frm it
+ * The number of people who have reportedly recovered from it
  * Top 20 countries that are Severely affected/TotalConfirmed/TotalDeaths/TotalActive/TotalRecoveries by corona 
 
 ## Installation
