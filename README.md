@@ -12,7 +12,7 @@ Coronavirus disease 2019 (COVID-19) listing confirmed cases, reported deaths and
     3. Data Preparation
     4. Installation
     5. Data Visualization
-    6. Conclusion
+    6. Conclusio
  
 ### Objective:
  Visualization of people affected by COVID-19 worldwide
